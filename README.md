@@ -2,7 +2,7 @@
 
 # [Download](https://github.com/romfoez86/Taunahi-client/releases)
 
-https://assets.taunahi.net/new-default-banner.png
+[src](https://assets.taunahi.net/new-default-banner.png)
 
 **Taunahi** is a high-performance mod for **Minecraft**, designed specifically for automating various aspects of gameplay on the **Hypixel SkyBlock** server. With over 25 different scripts covering almost every core gameplay mechanic, **Taunahi** provides players with powerful tools to enhance efficiency, comfort, and overall gameplay experience.
 
